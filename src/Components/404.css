@@ -1,0 +1,33 @@
+
+.empty{
+    margin-left: 40%;
+    margin-top: 10%;
+    padding: 20px 20px;
+    background-color: #F6FFEA;
+    width: 20%;
+    border: none;
+    border-radius: 8px;
+}
+.empty h1{
+    background-color: #F6FFEA;
+    text-align: center;
+    font-weight: bolder;
+}
+.empty p{
+    background-color: #F6FFEA;
+    text-align: center;
+    margin-top: 10px;
+    color:  #B5B2B2;
+    font-size: small;
+    font-weight: bolder;
+}
+.empty button{
+    padding: 10px 30px;
+    background-color:  #75A734;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-left: 33%;
+}

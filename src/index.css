@@ -1,0 +1,248 @@
+*{
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+
+}
+.loginPage{
+    display: flex;
+    /* height: 96px; */
+}
+.fix{
+    margin-left: 70px;
+    width: 90px;
+    margin-top: 20px;
+}
+.aboutA{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+.aboutA a{
+    font-size: 16px;
+    line-height: 19.36px;
+    text-decoration: none;
+    color: #333333;
+    font-size: small;
+    font-weight: bold;
+
+}
+.btn{
+    margin-top: 3%;
+    margin-left: 15%;
+    
+}
+.btn button{
+    width:158p;
+    padding: 10px;
+    border-radius:8px ;
+    outline: none;
+    border: none;
+    background-color:  #333333;
+    color: white;
+    cursor: pointer;
+}
+.btn button img{
+    background-color: #333333;
+}
+.btn span button{
+    padding: 10px 30px;
+    background-color:  #75A734;
+    color: white;
+    margin-left: 10px;
+    
+}
+.Text p{
+    font-size: 27px;
+    font-weight: 400;
+   line-height: 38.73px;
+   color: #333333;
+   margin-left: 43%;
+   margin-top: 5%;
+   
+}
+.Text p Span{
+    color:gray;
+}
+.Text h6{
+   color:#333333;
+   font-size: 11px;
+   font-weight: 700;
+   line-height: 19.36px;
+   margin-left: 46%;
+   margin-top: 10px;
+   
+
+}
+.form{
+    margin-left: 39%;
+    margin-top: 2%;
+}
+.form p{
+    font-size: small;
+    font-weight: bold;
+    line-height: 16.94px;
+    color: #333333;
+    padding: 10px;
+}
+.form input{
+    width: 350px;
+    height: 40px;
+    text-align: left;
+    border: none;
+    outline: none;
+    background-color: #F8F8F8;
+    border-radius: 8px;
+}
+input::placeholder{
+     padding-left: 15px;
+}
+.chk{
+    display: flex;
+    justify-content: center;
+}
+#pag{
+   font-size: smaller;
+   font-weight: 300;
+   line-height: 16.94px;
+   color: #333333;
+   margin-top: 10px;
+   margin-left: 15px;
+}
+#pag span{
+    color: #75A734;
+    margin-left: 50px;
+}
+.chk input{
+        margin-top: 10px;
+        cursor: pointer;
+        margin-left: 35px;
+}
+.button2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.button2 button{
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.36px;
+    padding: 8px 150px;
+    margin-left: 42px;
+    border-radius:8px ;
+    cursor: pointer;
+    border: none;
+    background-color: #75A734;
+    color: white;
+}
+.try{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.try p{
+    margin-left: 20px;
+    font-size: small;
+    font-weight: 400;
+    color: #333333;
+    line-height: 19.36px;
+}
+.try span a{
+    color: #75A734;
+    text-decoration: none;
+}
+footer{
+    display: flex;
+    margin-top: 10%;
+    background-color: #333333;
+    padding: 40px 0;
+}
+footer p{
+   color:  #B5B2B2;
+   background-color: #333333;
+   font-size:small ;
+   font-weight: 500;
+   line-height: 24px;
+   margin-top: 15px;
+   margin-left: 5px;
+}
+.foot{
+    margin-left: 40px;
+    margin-top: 15px;
+    background-color: #333333;
+}
+.foot img{
+    background-color: #333333;
+}
+.foot a img{
+    margin-top: 40px;
+    width: 30px;
+    padding: 10px;
+    background-color: #333333;
+}
+.more{
+    display: flex;
+    margin-left: 25%;
+    gap: 150px;
+    background-color: #333333;
+}
+#nav{
+    padding: 10px;
+    background-color: #333333;
+}
+#nav p{
+   padding: 3px;
+}
+#faq{
+    padding: 10px;
+    background-color: #333333;
+}
+#faq p{
+   padding: 3px;
+}
+#use{
+    padding: 10px;
+    background-color: #333333;
+}
+#use p{
+   padding: 3px;
+}
+#all{
+    align-items: center;
+    background-color: #333333;
+    color: white;
+    margin-left: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
